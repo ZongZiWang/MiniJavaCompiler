@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="welcome">Welcome to MiniJava Compiler ^_^\n</string>
+    <string name="app_name">MiniJavaCompiler</string>
+    <string name="chooseFile">Please Indicate the Path and the Name of a MiniJava Source File\n</string>
+
+</resources>
